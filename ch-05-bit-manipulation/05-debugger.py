@@ -1,2 +1,1 @@
-# Determine what the following function does.
-
+# Determine what the following code does: ((n &* n-1)) == 0)
